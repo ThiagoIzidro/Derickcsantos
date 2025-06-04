@@ -1,4 +1,4 @@
-# <h1 align="center">  Seja Bem Vindo! Eu sou o Dérick Campos Santos </h1>
+# <h1 align="center">  Seja Bem Vindo! Meu nome é Thiago Izidro </h1>
 
 <!-- Badges Icons GitHub -->
 <p align="center">
